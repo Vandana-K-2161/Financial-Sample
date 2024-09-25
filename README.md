@@ -2,7 +2,7 @@
 
 # Power BI Sales Analysis Project  
 
-# Description  
+## Description  
 This project is a Power BI dashboard that provides a comprehensive analysis of sales performance across various segments, products, and countries. This repository contains a detailed analysis of sales and profit data for the years 2013 and 2014. The project includes a visual dashboard that presents key metrics and insights derived from the dataset, allowing users to understand sales performance across different segments, months, and countries.This repository contains Area chart,Bar chart,Doughnut chart,Line chart etc.
 
 ## Data Details
